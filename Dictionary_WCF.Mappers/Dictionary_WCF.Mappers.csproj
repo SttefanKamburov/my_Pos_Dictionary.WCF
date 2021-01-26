@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Dictionary_WCF.Models\Dictionary_WCF.Models.csproj" />
+    <ProjectReference Include="..\Dictionary_WCF.Shared\Dictionary_WCF.Shared.csproj" />
+  </ItemGroup>
+
+</Project>

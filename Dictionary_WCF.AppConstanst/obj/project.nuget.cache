@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "q+X7KsfCUp/97E5Z3rLI/jr2CLb3ZXi9QsgyiaIS8emJ3y5IzXJc4U3qiMhJrItjLO4aMDCbM93Vk+PLw07Dxw==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\Asus ROG\\source\\repos\\Dictionary_WCF\\Dictionary_WCF.AppConstanst\\Dictionary_WCF.AppConstanst.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus ROG\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Asus ROG\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Asus ROG\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

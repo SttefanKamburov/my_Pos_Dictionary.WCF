@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Dictionary_WCF.Shared</id>
+    <version>1.0.0</version>
+    <authors>Dictionary_WCF.Shared</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Dictionary_WCF.AppConstanst" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Dictionary_WCF.Models" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="System.ComponentModel.Annotations" version="5.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Users\Asus ROG\source\repos\Dictionary_WCF\Dictionary_WCF.Shared\bin\Debug\netstandard2.0\Dictionary_WCF.Shared.dll" target="lib\netstandard2.0\Dictionary_WCF.Shared.dll" />
+  </files>
+</package>

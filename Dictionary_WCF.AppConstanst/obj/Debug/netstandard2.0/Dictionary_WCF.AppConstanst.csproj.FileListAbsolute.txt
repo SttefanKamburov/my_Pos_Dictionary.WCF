@@ -1,0 +1,9 @@
+D:\Users\Asus ROG\source\repos\Dictionary_WCF\Dictionary_WCF.AppConstanst\bin\Debug\netstandard2.0\Dictionary_WCF.AppConstanst.deps.json
+D:\Users\Asus ROG\source\repos\Dictionary_WCF\Dictionary_WCF.AppConstanst\bin\Debug\netstandard2.0\Dictionary_WCF.AppConstanst.dll
+D:\Users\Asus ROG\source\repos\Dictionary_WCF\Dictionary_WCF.AppConstanst\bin\Debug\netstandard2.0\Dictionary_WCF.AppConstanst.pdb
+D:\Users\Asus ROG\source\repos\Dictionary_WCF\Dictionary_WCF.AppConstanst\obj\Debug\netstandard2.0\Dictionary_WCF.AppConstanst.AssemblyInfoInputs.cache
+D:\Users\Asus ROG\source\repos\Dictionary_WCF\Dictionary_WCF.AppConstanst\obj\Debug\netstandard2.0\Dictionary_WCF.AppConstanst.AssemblyInfo.cs
+D:\Users\Asus ROG\source\repos\Dictionary_WCF\Dictionary_WCF.AppConstanst\obj\Debug\netstandard2.0\Dictionary_WCF.AppConstanst.csproj.CoreCompileInputs.cache
+D:\Users\Asus ROG\source\repos\Dictionary_WCF\Dictionary_WCF.AppConstanst\obj\Debug\netstandard2.0\Dictionary_WCF.AppConstanst.dll
+D:\Users\Asus ROG\source\repos\Dictionary_WCF\Dictionary_WCF.AppConstanst\obj\Debug\netstandard2.0\Dictionary_WCF.AppConstanst.pdb
+D:\Users\Asus ROG\source\repos\Dictionary_WCF\Dictionary_WCF.AppConstanst\obj\Debug\netstandard2.0\Dictionary_WCF.AppConstanst.csprojAssemblyReference.cache

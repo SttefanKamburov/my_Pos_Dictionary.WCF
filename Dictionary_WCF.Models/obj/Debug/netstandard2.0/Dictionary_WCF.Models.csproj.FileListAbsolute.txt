@@ -1,0 +1,12 @@
+D:\Users\Asus ROG\source\repos\Dictionary_WCF\Dictionary_WCF.Models\bin\Debug\netstandard2.0\Dictionary_WCF.Models.deps.json
+D:\Users\Asus ROG\source\repos\Dictionary_WCF\Dictionary_WCF.Models\bin\Debug\netstandard2.0\Dictionary_WCF.Models.dll
+D:\Users\Asus ROG\source\repos\Dictionary_WCF\Dictionary_WCF.Models\bin\Debug\netstandard2.0\Dictionary_WCF.Models.pdb
+D:\Users\Asus ROG\source\repos\Dictionary_WCF\Dictionary_WCF.Models\obj\Debug\netstandard2.0\Dictionary_WCF.Models.AssemblyInfoInputs.cache
+D:\Users\Asus ROG\source\repos\Dictionary_WCF\Dictionary_WCF.Models\obj\Debug\netstandard2.0\Dictionary_WCF.Models.AssemblyInfo.cs
+D:\Users\Asus ROG\source\repos\Dictionary_WCF\Dictionary_WCF.Models\obj\Debug\netstandard2.0\Dictionary_WCF.Models.csproj.CoreCompileInputs.cache
+D:\Users\Asus ROG\source\repos\Dictionary_WCF\Dictionary_WCF.Models\obj\Debug\netstandard2.0\Dictionary_WCF.Models.dll
+D:\Users\Asus ROG\source\repos\Dictionary_WCF\Dictionary_WCF.Models\obj\Debug\netstandard2.0\Dictionary_WCF.Models.pdb
+D:\Users\Asus ROG\source\repos\Dictionary_WCF\Dictionary_WCF.Models\bin\Debug\netstandard2.0\Dictionary_WCF.AppConstanst.dll
+D:\Users\Asus ROG\source\repos\Dictionary_WCF\Dictionary_WCF.Models\bin\Debug\netstandard2.0\Dictionary_WCF.AppConstanst.pdb
+D:\Users\Asus ROG\source\repos\Dictionary_WCF\Dictionary_WCF.Models\obj\Debug\netstandard2.0\Dictionary_WCF.Models.csprojAssemblyReference.cache
+D:\Users\Asus ROG\source\repos\Dictionary_WCF\Dictionary_WCF.Models\obj\Debug\netstandard2.0\Dictionary_WCF.Models.csproj.CopyComplete
