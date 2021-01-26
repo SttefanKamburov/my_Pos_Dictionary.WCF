@@ -1249,17 +1249,6 @@
           "Dictionary_WCF.AppConstanst.dll": {}
         }
       },
-      "Dictionary_WCF.Models/1.0.0": {
-        "dependencies": {
-          "Dictionary_WCF.AppConstanst": "1.0.0",
-          "Microsoft.EntityFrameworkCore": "3.1.9",
-          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.9",
-          "System.ComponentModel.Annotations": "5.0.0"
-        },
-        "runtime": {
-          "Dictionary_WCF.Models.dll": {}
-        }
-      },
       "Dictionary_WCF.Shared/1.0.0": {
         "dependencies": {
           "Dictionary_WCF.AppConstanst": "1.0.0",
@@ -2063,11 +2052,6 @@
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
     },
     "Dictionary_WCF.AppConstanst/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Dictionary_WCF.Models/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

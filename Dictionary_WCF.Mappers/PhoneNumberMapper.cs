@@ -9,7 +9,7 @@ namespace Dictionary_WCF.Mappers
 {
     public class PhoneNumberMapper
     {
-        public static PhoneNumberOutputModel SelectAddressDtoFromAddress(PhoneNumberDTO phoneNumberDTO)
+        public static PhoneNumberOutputModel SelectPhoneOutputModelFromPhoneDTO(PhoneNumberDTO phoneNumberDTO)
         {
             PhoneNumberOutputModel model = new PhoneNumberOutputModel();
             model.PhoneNumber = phoneNumberDTO.Number;
