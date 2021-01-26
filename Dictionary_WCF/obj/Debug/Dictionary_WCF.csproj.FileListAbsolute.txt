@@ -4,9 +4,7 @@ D:\Users\Asus ROG\source\repos\Dictionary_WCF\Dictionary_WCF\bin\Dictionary_WCF.
 D:\Users\Asus ROG\source\repos\Dictionary_WCF\Dictionary_WCF\bin\Dictionary_WCF.dll
 D:\Users\Asus ROG\source\repos\Dictionary_WCF\Dictionary_WCF\bin\Dictionary_WCF.pdb
 D:\Users\Asus ROG\source\repos\Dictionary_WCF\Dictionary_WCF\bin\Dictionary_WCF.AppConstanst.dll
-D:\Users\Asus ROG\source\repos\Dictionary_WCF\Dictionary_WCF\bin\Dictionary_WCF.Models.dll
 D:\Users\Asus ROG\source\repos\Dictionary_WCF\Dictionary_WCF\bin\Dictionary_WCF.AppConstanst.pdb
-D:\Users\Asus ROG\source\repos\Dictionary_WCF\Dictionary_WCF\bin\Dictionary_WCF.Models.pdb
 D:\Users\Asus ROG\source\repos\Dictionary_WCF\Dictionary_WCF\obj\Debug\Dictionary_WCF.csproj.CopyComplete
 D:\Users\Asus ROG\source\repos\Dictionary_WCF\Dictionary_WCF\obj\Debug\Dictionary_WCF.dll
 D:\Users\Asus ROG\source\repos\Dictionary_WCF\Dictionary_WCF\obj\Debug\Dictionary_WCF.pdb

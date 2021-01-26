@@ -1,5 +1,4 @@
-﻿using Dictionary_WCF.Models;
-using Dictionary_WCF.Shared.ModelsDTO;
+﻿using Dictionary_WCF.Shared.ModelsDTO;
 using Dictionary_WCF.Shared.OutputModels;
 using System;
 using System.Collections.Generic;

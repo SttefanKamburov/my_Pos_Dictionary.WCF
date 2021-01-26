@@ -1,5 +1,5 @@
-﻿using Dictionary_WCF.Models;
-using Dictionary_WCF.Shared.ModelsDTO;
+﻿using Dictionary_WCF.Shared.ModelsDTO;
+using Dictionary_WCF.Shared.OutputModels;
 using System;
 using System.Collections.Generic;
 using System.Linq.Expressions;
@@ -9,12 +9,11 @@ namespace Dictionary_WCF.Mappers
 {
     public class PhoneNumberMapper
     {
-        public static readonly Expression<Func<PhoneNumberModel, PhoneNumberDTO>> SelectPhoneNumberDtoFromPhoneNumberModel = (PhoneNumberModel) => new PhoneNumberDTO()
+        public static PhoneNumberOutputModel SelectAddressDtoFromAddress(PhoneNumberDTO phoneNumberDTO)
         {
-            Id = PhoneNumberModel.Id,
-            PersonId = PhoneNumberModel.PersonId,
-            IsHome = PhoneNumberModel.IsHome,
-            Number = PhoneNumberModel.Number
-        };
+            PhoneNumberOutputModel model = new PhoneNumberOutputModel();
+            model.PhoneNumber = phoneNumberDTO.Number;
+            return model;
+        }
     }
 }

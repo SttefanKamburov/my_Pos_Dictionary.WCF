@@ -1,8 +1,6 @@
 D:\Users\Asus ROG\source\repos\Dictionary_WCF\Dictionary_WCF.Shared\bin\Debug\netstandard2.0\Dictionary_WCF.Shared.deps.json
 D:\Users\Asus ROG\source\repos\Dictionary_WCF\Dictionary_WCF.Shared\bin\Debug\netstandard2.0\Dictionary_WCF.Shared.dll
 D:\Users\Asus ROG\source\repos\Dictionary_WCF\Dictionary_WCF.Shared\bin\Debug\netstandard2.0\Dictionary_WCF.Shared.pdb
-D:\Users\Asus ROG\source\repos\Dictionary_WCF\Dictionary_WCF.Shared\bin\Debug\netstandard2.0\Dictionary_WCF.Models.dll
-D:\Users\Asus ROG\source\repos\Dictionary_WCF\Dictionary_WCF.Shared\bin\Debug\netstandard2.0\Dictionary_WCF.Models.pdb
 D:\Users\Asus ROG\source\repos\Dictionary_WCF\Dictionary_WCF.Shared\obj\Debug\netstandard2.0\Dictionary_WCF.Shared.csprojAssemblyReference.cache
 D:\Users\Asus ROG\source\repos\Dictionary_WCF\Dictionary_WCF.Shared\obj\Debug\netstandard2.0\Dictionary_WCF.Shared.AssemblyInfoInputs.cache
 D:\Users\Asus ROG\source\repos\Dictionary_WCF\Dictionary_WCF.Shared\obj\Debug\netstandard2.0\Dictionary_WCF.Shared.AssemblyInfo.cs

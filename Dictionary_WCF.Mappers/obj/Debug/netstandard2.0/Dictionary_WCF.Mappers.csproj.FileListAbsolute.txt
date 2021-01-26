@@ -2,9 +2,7 @@ D:\Users\Asus ROG\source\repos\Dictionary_WCF\Dictionary_WCF.Mappers\bin\Debug\n
 D:\Users\Asus ROG\source\repos\Dictionary_WCF\Dictionary_WCF.Mappers\bin\Debug\netstandard2.0\Dictionary_WCF.Mappers.dll
 D:\Users\Asus ROG\source\repos\Dictionary_WCF\Dictionary_WCF.Mappers\bin\Debug\netstandard2.0\Dictionary_WCF.Mappers.pdb
 D:\Users\Asus ROG\source\repos\Dictionary_WCF\Dictionary_WCF.Mappers\bin\Debug\netstandard2.0\Dictionary_WCF.AppConstanst.dll
-D:\Users\Asus ROG\source\repos\Dictionary_WCF\Dictionary_WCF.Mappers\bin\Debug\netstandard2.0\Dictionary_WCF.Models.dll
 D:\Users\Asus ROG\source\repos\Dictionary_WCF\Dictionary_WCF.Mappers\bin\Debug\netstandard2.0\Dictionary_WCF.Shared.dll
-D:\Users\Asus ROG\source\repos\Dictionary_WCF\Dictionary_WCF.Mappers\bin\Debug\netstandard2.0\Dictionary_WCF.Models.pdb
 D:\Users\Asus ROG\source\repos\Dictionary_WCF\Dictionary_WCF.Mappers\bin\Debug\netstandard2.0\Dictionary_WCF.Shared.pdb
 D:\Users\Asus ROG\source\repos\Dictionary_WCF\Dictionary_WCF.Mappers\bin\Debug\netstandard2.0\Dictionary_WCF.AppConstanst.pdb
 D:\Users\Asus ROG\source\repos\Dictionary_WCF\Dictionary_WCF.Mappers\obj\Debug\netstandard2.0\Dictionary_WCF.Mappers.csprojAssemblyReference.cache
